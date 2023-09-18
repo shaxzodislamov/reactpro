@@ -1,0 +1,19 @@
+
+p{
+    color: #23202A;
+    position: absolute;
+    left: -50px;
+    top: 50px;
+}
+
+.kard{
+    position: relative;
+    left: 250px;
+    top: 150px;
+}
+
+.kard p{
+    color: #23202A;
+    position: relative;
+    left: -550px;
+}

@@ -1,0 +1,24 @@
+.fish{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 10px;
+}
+
+.fish span{
+    width: 200px;
+    color:  #23202A;
+    font-family: Mail Sans Roman;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    letter-spacing: 0.8px;
+    position: relative;
+    left: -40px;
+}
+
+.fish #first1{
+    position: relative;
+    left: 10px;
+}

@@ -1,0 +1,46 @@
+.statistika{
+    width: 930px;
+    height: 600px;
+    border: 1px solid grey;
+    position: relative;
+    top: 180px;
+    left: 150px;
+}
+
+
+
+#nav-bar{
+    width: 85%;
+    height: 100vh;
+    border: 1px solid #FAF2EE;
+    margin: 10px;
+    position: relative;
+    top: 170px;
+    left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.karta-item{
+    margin-right: 50px;
+}
+
+.all{
+    position: absolute;
+    top: 280px;
+    left: 50px;
+}
+
+.card{
+    display: flex;
+    position: relative;
+    top: 150px;
+    left: 210px;
+}
+
+.cardp{
+    color: #23202A;
+    position: relative;
+    top: -40px;
+    left: 50px;
+}

@@ -1,0 +1,107 @@
+
+.select {
+    position: absolute;
+    }
+
+
+
+.sear{
+    display: flex;
+    position: relative;
+    top: 150px;
+    left: 850px;
+}
+
+.sear input{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: #FFF;
+    border: 1px solid grey;
+}
+
+.img2{
+    width: 45px;
+    height: 21px;
+    background-color: #7735E0;
+    border-radius: 0px 5px 5px 0px;
+    position: relative;
+    left: -48px;
+    top: 2px;
+
+}
+
+.img2 img{
+    position: relative;
+    left: 10px;
+    top: -2px;
+    padding: 1px;
+}
+
+.yozuv p{
+    color: #23202A;
+    font-family: Mail Sans Roman;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 133.333% */
+    letter-spacing: 0.9px;
+
+}
+
+.yozuv{
+    position: relative;
+    top: 110px;
+    left: -250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.yozuv span{
+    color: #23202A;
+    position: relative;
+    left: 500px;
+}
+
+
+.royxat{
+    width: 900px;
+    height: 100vh;
+    position: relative;
+    left: 250px;
+    top: 160px;
+}
+
+
+
+.atribut span{
+    color: rgba(35, 32, 42, 0.60);
+    font-family: Mail Sans Roman;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.7px;
+    padding: 5px 60px;
+}
+
+.atribut #first{
+    position: relative;
+    left: -50px;
+}
+
+
+hr{
+    color: rgba(0, 0, 0, 0.10);
+    position: relative;
+    top: 10px;
+    margin-top: 5px;
+    margin: 10px 20px;
+}
+
+.glaz{
+    position: relative;
+    left: -20px;
+}
+
